@@ -1,4 +1,4 @@
-# Interview_portal_hackathon
+# Interview_Prep
 Interview portal for job seekers was my Hackathon project organised by TSEC Codecell from Thadomal Shahani Engineering College, Mumbai. 
 - Here are some screenshots of the project:
 
